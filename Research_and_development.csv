@@ -1,0 +1,121 @@
+project_id,project_name,budget,start_date,end_date,test_result,clinical_trial_data
+1,"Bailey, Reinger and Kutch","$6,326.68 ",5/22/2024,1/28/2027,approved,Lacerat intrns musc/fasc/tend l little finger at wrs/hnd lv
+2,Mante-Miller,"$1,337.52 ",2/4/2024,8/5/2026,approved,"Driver of hv veh injured in clsn w unsp mv in traf, init"
+3,Shields Inc,"$1,107.86 ",11/12/2023,4/21/2026,not approved,"Other ossification of muscle, shoulder"
+4,Satterfield LLC,"$8,196.15 ",4/20/2024,5/5/2026,approved,Aphasia following unspecified cerebrovascular disease
+5,Volkman Group,"$9,430.19 ",12/23/2023,3/26/2025,not approved,Type 1 diabetes w severe nonprlf diabetic retinopathy
+6,Prosacco-Cassin,"$7,617.80 ",2/5/2024,1/26/2027,not approved,"Driver of hv veh inj in nonclsn trnsp acc nontraf, sequela"
+7,Brakus and Sons,"$2,309.01 ",11/18/2023,9/2/2025,approved,"Non-Hodgkin lymphoma, unsp, extranodal and solid organ sites"
+8,Effertz-Runolfsson,"$3,430.09 ",11/20/2023,11/3/2025,not approved,"Unspecified injury of fallopian tube, unilateral"
+9,Schumm-Hirthe,"$8,790.18 ",3/31/2024,5/4/2025,approved,"Unsp athscl nonbiol bypass of the extremities, right leg"
+10,"Gibson, Leannon and Olson","$1,771.00 ",5/26/2024,12/14/2025,not approved,"Sprain of jaw, bilateral"
+11,Towne Group,"$9,974.65 ",3/16/2024,1/10/2026,approved,"Lead-induced gout, left hip"
+12,Christiansen-Jacobson,"$4,902.25 ",12/9/2023,4/24/2026,approved,Encounter for adjust and mgmt oth prt cardiac pacemaker
+13,Casper LLC,"$9,178.83 ",5/2/2024,8/5/2025,approved,West Nile virus infection with oth neurologic manifestation
+14,Trantow and Sons,"$8,993.57 ",1/9/2024,8/19/2026,approved,Nondisplaced fracture of medial malleolus of left tibia
+15,Von Inc,"$7,340.29 ",4/20/2024,3/9/2025,not approved,"Disp fx of coronoid pro of l ulna, 7thH"
+16,Bergnaum LLC,"$5,959.41 ",12/29/2023,11/19/2025,not approved,"Other anterior dislocation of left hip, initial encounter"
+17,Smith LLC,"$5,019.96 ",3/31/2024,5/22/2025,not approved,Hemiplga following nontraumatic intracerebral hemorrhage
+18,Quigley LLC,"$7,330.26 ",3/27/2024,8/19/2025,approved,"Traum hemor left cerebrum w LOC of 6 hours to 24 hours, subs"
+19,"Kuhlman, DuBuque and Jerde","$9,348.57 ",3/13/2024,6/19/2026,approved,"Infct of amniotic sac and membrns, unsp, unsp trimester, oth"
+20,"Gleichner, Tillman and Jaskolski","$8,356.43 ",2/26/2024,6/30/2025,not approved,"Epidur hemor w LOC w death due to oth causes bf consc, init"
+21,Rolfson Group,"$7,642.10 ",1/8/2024,6/13/2026,not approved,"Complete traumatic amputation of left lower leg, level unsp"
+22,Moen-Terry,"$1,853.20 ",4/3/2024,4/10/2025,approved,"Lacerat extn musc/fasc/tend r rng fngr at wrs/hnd lv, subs"
+23,Bogan-Williamson,"$8,094.37 ",2/10/2024,7/22/2025,approved,"Legal intervnt involving unsp firearm disch, suspect injured"
+24,Rutherford LLC,"$3,344.49 ",3/12/2024,8/20/2025,approved,"Exposure to flames in uncontrolled fire, not in bldg, init"
+25,"Schmidt, Mraz and Stanton","$6,258.30 ",2/19/2024,1/15/2027,not approved,"Other sprain of right shoulder joint, sequela"
+26,Hettinger and Sons,"$7,544.81 ",2/24/2024,11/21/2025,not approved,Other noninflammatory disorders of cervix uteri
+27,Zemlak-Hermiston,"$8,605.12 ",11/9/2023,9/4/2025,not approved,"Anesthesia and hypoesthesia of cornea, unspecified eye"
+28,Bayer Group,"$3,256.62 ",2/25/2024,8/14/2026,not approved,"Pnctr w/o fb of l bk wl of thorax w penet thor cavity, sqla"
+29,Kunde-Heidenreich,"$4,263.76 ",3/31/2024,8/28/2026,approved,"Major lacerat great saph at hip and thi lev, left leg, subs"
+30,"Cremin, Durgan and Mueller","$2,199.37 ",4/27/2024,2/25/2025,approved,"Nondisp fx of pisiform, left wrist, init for opn fx"
+31,Beer-Erdman,"$8,785.72 ",5/9/2024,7/26/2025,not approved,"Fall/lying/running bef/into moving obj, undet intent, sqla"
+32,Hayes-Denesik,"$1,440.81 ",12/29/2023,5/1/2026,not approved,"Prsn brd/alit hv veh injured in clsn w statnry object, init"
+33,"Carroll, Emmerich and Hammes","$8,505.89 ",1/25/2024,1/5/2026,approved,Unspecified injury of other intra-abdominal organs
+34,"Hayes, Dooley and Wuckert","$6,660.51 ",5/6/2024,11/23/2025,approved,"Unsp focal TBI w LOC of 1-5 hrs 59 min, init"
+35,Erdman-Farrell,"$7,514.45 ",1/5/2024,12/11/2025,approved,Other primary thrombocytopenia
+36,Littel Inc,"$1,744.08 ",12/8/2023,9/7/2026,approved,"Calcium deposit in bursa, unspecified hip"
+37,Reilly Group,"$8,772.36 ",2/3/2024,7/22/2026,not approved,Reversible pulpitis
+38,"Gibson, Kuvalis and Klein","$2,989.10 ",11/15/2023,6/7/2025,not approved,"Unspecified superficial injury of unspecified thigh, sequela"
+39,Schuster Inc,"$1,983.85 ",2/13/2024,8/18/2025,not approved,Idiopathic hypersomnia without long sleep time
+40,Gutkowski LLC,"$8,955.57 ",11/10/2023,6/4/2026,not approved,"Hydroxyapatite deposition disease, left ankle and foot"
+41,Ryan LLC,"$4,238.26 ",11/21/2023,7/4/2026,approved,"Pnctr w foreign body of l rng fngr w damage to nail, init"
+42,Lindgren Group,"$1,801.25 ",1/28/2024,7/20/2026,not approved,Unsp comp of fb acc left in body following kidney dialysis
+43,Rosenbaum-Schulist,"$2,817.20 ",5/11/2024,5/9/2025,not approved,"Pedl cyc passenger injured in clsn w unsp mv nontraf, subs"
+44,Huels Group,"$1,216.83 ",1/26/2024,5/18/2025,not approved,"Toxic effect of venom of spider, accidental, init"
+45,Stanton-Parisian,"$5,841.59 ",12/6/2023,2/21/2025,not approved,"Unspecified subluxation of left hip, initial encounter"
+46,Keebler-Kunde,"$2,562.06 ",2/19/2024,9/13/2025,approved,"Nondisp seg fx shaft of r fibula, 7thK"
+47,Gibson-Hudson,"$4,519.36 ",1/19/2024,12/12/2025,not approved,"Immersion hand, left hand"
+48,Bartell and Sons,"$6,061.23 ",4/3/2024,9/28/2025,approved,"Drown due to oth accident to unpowr wtrcrft, sequela"
+49,"Ernser, Veum and Becker","$8,480.02 ",11/29/2023,8/8/2026,approved,"Poisoning by sulfonamides, undetermined, initial encounter"
+50,Corwin-Marquardt,"$1,206.25 ",3/19/2024,6/9/2025,not approved,"Unsp soft tissue disord related to use/pressure, unsp thigh"
+51,Swaniawski Group,"$8,326.94 ",1/20/2024,5/30/2025,not approved,"Oth tear of medial mensc, current injury, unsp knee, sequela"
+52,Johnston Group,"$2,491.42 ",3/5/2024,12/23/2024,approved,"Contusion of unspecified knee, initial encounter"
+53,Ziemann-Treutel,"$7,845.63 ",11/29/2023,9/3/2025,approved,"Toxic effect of venom of black widow spider, self-harm, init"
+54,Conroy-Treutel,"$2,678.25 ",3/11/2024,1/8/2025,approved,"Nondisp fx of ant column of right acetab, init for opn fx"
+55,Kling-Haley,"$4,282.36 ",4/4/2024,3/4/2025,approved,"Aural vertigo, left ear"
+56,"Rice, Effertz and Hansen","$2,537.69 ",11/8/2023,8/11/2026,approved,"Disp fx of olecran pro w intartic extn l ulna, 7thC"
+57,Douglas LLC,"$4,984.44 ",12/23/2023,1/6/2026,not approved,"Poisoning by therapeutic gases, undetermined, init encntr"
+58,"Zieme, Beatty and Reilly","$5,940.13 ",1/10/2024,5/24/2025,not approved,"Lac w/o fb of abd wall, right upper q w/o penet perit cav"
+59,Hodkiewicz Inc,"$9,315.45 ",2/18/2024,7/26/2025,approved,Segmental and somatic dysfunction of upper extremity
+60,Harber and Sons,"$7,106.87 ",4/7/2024,10/30/2025,not approved,"Disp fx of lateral end unsp clavicle, subs for fx w nonunion"
+61,Abbott Inc,"$5,324.43 ",3/27/2024,6/18/2026,not approved,"Nondisp transverse fx shaft of unsp tibia, 7thH"
+62,Goodwin LLC,"$9,252.79 ",3/24/2024,2/27/2026,not approved,"Oth inflammatory spondylopathies, cervicothoracic region"
+63,Schimmel and Sons,"$3,240.14 ",5/12/2024,6/20/2026,approved,"Toxic effect of unsp snake venom, undetermined, subs encntr"
+64,"Emmerich, Robel and Parisian","$8,068.20 ",1/17/2024,8/19/2026,approved,"Unsp occipital condyle fracture, init for clos fx"
+65,"Gusikowski, Hackett and Wilderman","$7,219.91 ",2/13/2024,7/3/2025,not approved,"Laceration of unsp musc/fasc/tend at wrs/hnd lv, unsp hand"
+66,Hane-Hodkiewicz,"$5,867.97 ",5/1/2024,10/6/2025,approved,"Toxic effect of manganese and its compounds, undet, init"
+67,Douglas and Sons,"$9,370.09 ",2/13/2024,9/20/2026,not approved,Fracture of vault of skull
+68,Robel-Trantow,"$8,953.79 ",11/17/2023,6/28/2026,not approved,Other physeal fracture of upper end of unspecified fibula
+69,Pfeffer-Klein,"$9,558.39 ",1/3/2024,7/29/2026,not approved,Oth pulmonary comp of anesthesia during labor and delivery
+70,Green LLC,"$4,666.46 ",3/20/2024,1/14/2027,not approved,"Breakdown (mechanical) of bone devices, implants and grafts"
+71,Dare Group,"$6,328.23 ",4/26/2024,12/27/2026,not approved,"Sltr-haris Type III physl fx low end rad, l arm, 7thD"
+72,Kirlin Group,"$1,197.40 ",4/4/2024,11/23/2025,approved,"Inj oth flexor musc/fasc/tend at forarm lv, right arm, sqla"
+73,"Pouros, Carroll and Simonis","$8,259.39 ",11/19/2023,4/13/2025,not approved,"Exposure to welding light (arc), initial encounter"
+74,Hettinger LLC,"$7,433.95 ",4/10/2024,1/8/2025,approved,"Oth fracture of third lumbar vertebra, init for opn fx"
+75,Kreiger Inc,"$4,983.21 ",2/22/2024,10/27/2026,approved,Driver of 3-whl mv injured in collision w ped/anml nontraf
+76,Koch-Walker,"$6,190.19 ",4/30/2024,5/10/2026,not approved,"Unsp injury of unspecified vertebral artery, init encntr"
+77,Bernier Inc,"$5,642.26 ",5/2/2024,9/7/2025,approved,"Disp fx of glenoid cavity of scapula, unspecified shoulder"
+78,"Hansen, Dickens and Lowe","$5,740.98 ",5/19/2024,9/23/2026,not approved,"Burn of unsp degree of forehead and cheek, init encntr"
+79,"Upton, O'Kon and Bernier","$1,757.68 ",5/6/2024,10/29/2026,approved,Disord of newborn related to long gest and high birth weight
+80,"Beier, Abbott and Durgan","$4,632.65 ",5/1/2024,4/29/2026,approved,"Unsp superficial injury of left little finger, subs encntr"
+81,"Collier, Smith and Hyatt","$1,249.21 ",4/15/2024,10/23/2026,not approved,Malig neoplm of ovrlp sites of bone/artic cartl of r limb
+82,Altenwerth-Greenfelder,"$2,325.24 ",11/5/2023,3/2/2026,approved,"Assault by oth gas, air or spring-operated gun, subs encntr"
+83,"Jacobson, Hessel and Beer","$1,982.93 ",3/9/2024,2/17/2025,approved,"Displ oblique fx shaft of l ulna, 7thN"
+84,Blanda-Connelly,"$7,248.24 ",4/1/2024,4/30/2025,approved,Contracture of joint
+85,"Walker, Torphy and Quitzon","$8,930.13 ",1/17/2024,7/3/2025,not approved,"Displaced fracture of left tibial tuberosity, sequela"
+86,Volkman Inc,"$6,156.65 ",1/17/2024,6/20/2025,approved,"Secondary osteoarthritis, hand"
+87,"Beatty, Veum and Bayer","$2,770.45 ",3/29/2024,9/30/2025,not approved,"Burn of 2nd deg mul sites of right ankle and foot, init"
+88,"Thiel, Koch and Osinski","$4,918.65 ",12/8/2023,12/18/2025,not approved,Periarthritis of wrist
+89,Ritchie Inc,"$9,079.30 ",4/8/2024,8/10/2025,not approved,"Fracture of foot and toe, except ankle"
+90,"Spinka, Schroeder and Greenfelder","$5,770.84 ",4/13/2024,12/13/2024,not approved,"Unspecified dislocation of unspecified thumb, init encntr"
+91,Ullrich-Osinski,"$2,342.09 ",4/10/2024,8/17/2026,approved,"Spontaneous rupture of flexor tendons, left thigh"
+92,"Bartoletti, Raynor and Ryan","$6,880.28 ",5/13/2024,6/3/2025,approved,Nondisplaced transverse fracture of left acetabulum
+93,"Waelchi, Lesch and Casper","$6,628.68 ",1/19/2024,12/3/2026,not approved,"Spermatocele of epididymis, single"
+94,Labadie-Ankunding,"$7,385.42 ",3/10/2024,10/26/2026,approved,"War op w unsp fire/conflagr/hot subst, civilian, init"
+95,Friesen and Sons,"$4,500.79 ",4/3/2024,4/25/2026,not approved,"Oth recurrent vertebral dislocation, cervicothoracic region"
+96,"Feeney, Borer and DuBuque","$7,838.41 ",5/22/2024,1/5/2027,not approved,Unspecified fracture of unspecified acetabulum
+97,Beahan Inc,"$4,289.76 ",12/16/2023,4/17/2025,not approved,Vasomotor rhinitis
+98,Wehner-Hickle,"$4,486.89 ",5/22/2024,10/20/2025,approved,"Nondisplaced Type II dens fracture, subs for fx w delay heal"
+99,"Simonis, Feil and Tremblay","$7,605.60 ",1/8/2024,10/20/2025,approved,"Abrasion of left eyelid and periocular area, subs encntr"
+100,Satterfield LLC,"$4,990.87 ",12/17/2023,9/12/2025,approved,Chilblains
+101,Kirlin-Ledner,"$7,477.43 ",1/8/2024,6/17/2026,not approved,Burn due to sailboat on fire
+102,"Hand, Baumbach and Treutel","$2,755.18 ",11/6/2023,12/1/2025,approved,"Displ spiral fx shaft of rad, unsp arm, 7thE"
+103,Mills-Nienow,"$6,529.78 ",11/26/2023,10/1/2026,approved,"Unspecified injury of lung, bilateral"
+104,Olson-Donnelly,"$5,010.57 ",11/26/2023,12/15/2024,not approved,"Torus fracture of upper end of unspecified humerus, sequela"
+105,Beier and Sons,"$5,355.18 ",5/12/2024,9/18/2025,not approved,"Laceration of unsp msl/tnd at ank/ft level, unsp foot"
+106,Goodwin LLC,"$1,863.75 ",4/16/2024,7/17/2025,not approved,Pedal cycle driver injured in collision w oth mv in traf
+107,Adams Group,"$1,887.40 ",5/3/2024,5/4/2026,not approved,"Superior glenoid labrum lesion of unsp shoulder, subs encntr"
+108,Donnelly-Bartell,"$6,175.64 ",4/9/2024,2/9/2026,approved,Sarcoidosis of lung
+109,Stroman LLC,"$5,212.56 ",11/21/2023,7/5/2026,approved,Other injury of unspecified part of small intestine
+110,Satterfield LLC,"$6,367.38 ",4/20/2024,2/6/2026,approved,"Inj intrinsic musc/fasc/tend finger at wrs/hnd lv, init"
+111,"Funk, Padberg and Schmeler","$4,830.89 ",5/3/2024,5/30/2025,approved,Congenital and hereditary thrombocytopenia purpura
+112,Lehner LLC,"$5,424.02 ",3/16/2024,11/25/2026,approved,"Disorders of muscle in diseases classd elswhr, unsp hand"
+113,"Kuvalis, Waters and Becker","$4,910.82 ",5/15/2024,2/8/2025,not approved,"Food in resp tract, part unsp causing oth injury, subs"
+114,"Halvorson, Rogahn and Will","$6,362.43 ",2/23/2024,12/1/2024,approved,"Type II occipital condyle fracture, unspecified side, 7thD"
+115,Jones Group,"$7,168.80 ",1/10/2024,4/6/2026,approved,"Unsp traum displ spondylolysis of fifth cervcal vert, init"
+116,Rice-Vandervort,"$1,134.09 ",11/14/2023,5/30/2026,not approved,Unsp non-institutional (private) residence as place
+117,Conn LLC,"$4,117.03 ",1/29/2024,10/20/2026,approved,"Diseases of the dgstv sys comp pregnancy, unsp trimester"
+118,"Runolfsdottir, Weissnat and Hintz","$6,853.01 ",12/18/2023,8/14/2026,approved,"Poisoning by penicillins, intentional self-harm"
+119,Christiansen-O'Kon,"$2,897.40 ",2/6/2024,12/11/2024,not approved,"Whole chromosome monosomy, mosaic (mitotic nondisjunction)"
+120,Leuschke Inc,"$7,558.78 ",12/18/2023,12/30/2026,approved,"Wear of artic bearing surface of unsp int prosth joint, subs"

@@ -1,0 +1,121 @@
+drug_id,drug_name,Description,Company_name,price,Expiration_Date
+1,Alcohol,Unspecified injury of sigmoid colon,"NATURE REPUBLIC CO., LTD.",$85.19 ,12/30/2026
+2,Ailanthus Tree of Heaven,"Other non-follicular lymphoma, intrapelvic lymph nodes","ALK-Abello, Inc.",$38.27 ,3/12/2025
+3,Aluminum Zirconium Tetrachlorohydrex GLY,"Fracture of unsp carpal bone, unsp wrist, init for clos fx",Conopco Inc. d/b/a Unilever,$63.30 ,1/14/2027
+4,Ciprofloxacin,Pasngr in 3-whl mv injured in clsn w oth and unsp mv nontraf,REMEDYREPACK INC.,$97.58 ,3/13/2025
+5,Fexofenadine HCl,"Traum rupt of palmar ligmt of unsp finger at MCP/IP jt, subs",McKesson,$78.46 ,3/30/2025
+6,"Norepinephrine, Octopamine, Insulin, Hydrocortisone, Ascorbicum acidum, Glandula suprarenalis suis, Heart (suis)",Disorders of glycoprotein metabolism,Deseret Biologicals,$27.75 ,8/4/2026
+7,ciprofloxacin hydrochloride,"Disp fx of base of neck of unspecified femur, sequela","Alcon Laboratories, Inc.",$99.57 ,3/6/2026
+8,naltrexone hydrochloride,Type 2 diab with prolif diab rtnop with trctn dtch macula,"Eon Labs, Inc.",$18.84 ,9/20/2026
+9,Western Ragweed,"Nondisp fx of neck of unsp radius, init for opn fx type I/2","ALK-Abello, Inc.",$64.70 ,2/28/2026
+10,ulmus pumila pollen,"Inj unsp blood vessel at wrist and hand of right arm, init","Allergy Laboratories, Inc.",$19.26 ,3/21/2026
+11,Triclosan,Dissection of carotid artery,Kimberly-Clark Corporation,$74.08 ,8/20/2026
+12,Valproic Acid,"Brown-Sequard syndrome at C2, init","Physicians Total Care, Inc.",$83.57 ,7/25/2024
+13,ALLANTOIN,Dislocation and sprain of joints and ligaments of knee,"NUGA MEDICAL CO., LTD.",$85.70 ,9/26/2025
+14,Aluminum Zirconium Octachlorohydrex Gly,"Frostbite with tissue necrosis of unsp foot, init encntr",Procter & Gamble Manufacturing Company,$65.31 ,12/2/2026
+15,"OCTINOXATE, OCTISALATE, ZINC OXIDE, TITANIUM DIOXIDE",Puncture wound without foreign body of unspecified ear,"NATURE REPUBLIC CO., LTD.",$13.28 ,7/18/2026
+16,Carvedilol,"Ant displ Type II dens fracture, subs for fx w delay heal","NCS HealthCare of KY, Inc dba Vangard Labs",$23.38 ,2/5/2025
+17,OAT HYPERICUM PERFORATUM PHOSPHORIC ACID MAMMAL LIVER STRYCHNOS IGNATII SEED MAGNESIUM APIS MELLIFERA SILICON DIOXIDE GOLD TRICHLORIDE,"Nondisp transverse fx shaft of l tibia, 7thM",Uriel Pharmacy Inc,$85.59 ,9/29/2026
+18,"Vitamin A, Ascorbic Acid, Cholecalciferol, .ALPHA.-TOCOPHEROL ACETATE, THIAMINE MONONITRATE, Riboflavin, Niacin, Pyridoxine, Folic Acid, Cyanocobalamin, Calcium, FERROUS FUMARATE, Iodine, Magnesium, Zinc, and Copper",Rheumatoid lung disease with rheumatoid arthritis of elbow,"Pharmics, Inc.",$2.16 ,10/5/2024
+19,Prochlorperazine,"Contact with workbench tool, sequela","G&W Laboratories, Inc.",$51.86 ,5/28/2025
+20,Jute,"Unsp injury of ulnar artery at forearm level, unsp arm, subs","Nelco Laboratories, Inc.",$87.83 ,12/18/2026
+21,"OCTINOXATE, TITANIUM DIOXIDE",Monoplegia of lower limb following cerebral infarction,Parfums Christian Dior,$98.99 ,5/3/2026
+22,Alcohol,"Nondisp fx of post wl of r acetab, subs for fx w routn heal","NATURE REPUBLIC CO., LTD.",$93.65 ,7/16/2025
+23,Glimepiride,"Corrosion of respiratory tract, part unsp, subs encntr","Physicians Total Care, Inc.",$6.72 ,11/1/2025
+24,Ibuprofen,Nail dystrophy,Western Family Foods Inc,$16.77 ,1/22/2027
+25,Diphenhydramine HCl,"Torus fracture of upper end of unsp fibula, init for clos fx",Best Choice (Valu Merchandisers Company),$77.90 ,10/2/2026
+26,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride","Unsp physl fx upr end humer, l arm, subs for fx w malunion",Kroger,$88.98 ,1/22/2027
+27,"OCTINOXATE, TITANIUM DIOXIDE","Unsp mtrcy rider inj in nonclsn trnsp acc nontraf, sequela",Parfums Christian Dior,$80.56 ,12/4/2024
+28,HydrALAZINE Hydrochloride,Coronary vasodilators,Strides Arcolab Limited,$15.60 ,1/22/2025
+29,Fluticasone Propionate,"Blister (nonthermal) of unsp front wall of thorax, subs","Taro Pharmaceuticals U.S.A., Inc.",$35.43 ,10/18/2025
+30,Octinoxate Oxybenzone,Subluxation and dislocation of shoulder joint,Susanne Lang Fragrance Inc.,$76.27 ,5/3/2026
+31,sinecatechins,"Convulsions, not elsewhere classified",PharmaDerm a division of Fougera Pharmaceuticals Inc.,$16.80 ,1/14/2025
+32,ETHYL ALCOHOL,Malignant melanoma of anal skin,HEB,$37.29 ,12/21/2026
+33,"OCTINOXATE, TITANIUM DIOXIDE","Maternal care for hereditary disease in fetus, oth",Lancaster S.A.M.,$33.22 ,12/4/2024
+34,Cimetidine,"Ulcerative colitis, unspecified with other complication",Kmart Corporation,$34.68 ,11/21/2026
+35,LEVOTHYROXINE SODIUM ANHYDROUS,"Other vascular disorders of iris and ciliary body, right eye","Fresenius Kabi USA, LLC",$84.07 ,7/21/2024
+36,Acarbose,Nondisplaced other fracture of tuberosity of right calcaneus,"Libertas Pharma, Inc.",$43.08 ,5/18/2025
+37,stavudine,"Occup of 3-whl mv inj pk-up truck, pk-up/van nontraf, sqla",Mylan Pharmaceuticals Inc.,$86.69 ,1/25/2026
+38,Etodolac,"Displ oblique fx shaft of r fibula, 7thG","Taro Pharmaceuticals U.S.A., Inc.",$34.29 ,10/2/2024
+39,Lansoprazole,"Poisoning by aspirin, undetermined, initial encounter",Bryant Ranch Prepack,$71.13 ,10/17/2026
+40,LEVOTHYROXINE SODIUM,Atrial premature depolarization,STAT Rx USA LLC,$82.11 ,3/21/2026
+41,minocycline hydrochloride,Atherosclerosis of renal artery,Medicis Pharmaceutical Corp.,$0.95 ,6/4/2025
+42,Sodium Ferric Gluconate Complex,"Other secondary osteonecrosis, unspecified bone","Watson Laboratories, Inc.",$73.30 ,10/20/2024
+43,"Allantoin, Benzethonium Chloride","Transient ischemic deafness, unspecified ear","Aidance Skincare & Topical Solutions, LLC",$55.71 ,5/1/2026
+44,Sodium Fluoride,Open bite of unspecified toe(s) with damage to nail,The Great Atlantic + Pacific Tea Company,$17.98 ,9/8/2025
+45,IBUPROFEN,"Poisoning by histamine H2-receptor blockers, acc, init",STAT RX USA LLC,$46.31 ,3/21/2026
+46,OCTINOXATE,Congenital pharyngeal pouch,"SHISEIDO CO., LTD.",$16.02 ,6/28/2026
+47,Clorazepate Dipotassium,"Nondisp fx of less trochanter of l femr, 7thN",Contract Pharmacy Services-PA,$75.88 ,4/25/2026
+48,"Asterias rubens, Aur. met.,Belladonna, Benzoicum acidum, Berber. vulg., Bryonia, Calc. carb., Cantharis, Ceanothus, Chelidonium majus Chionanthus virginica, Cinchona, Dioscorea ,Iris versicolor, Nat. carb., Nux vom., Ptelea, Carduus mar., Echinacea, Solidago, Taraxacum","Anaphylactic reaction due to food additives, subs encntr","Newton Laboratories, Inc.",$10.45 ,3/13/2025
+49,"Loratadine, Pseudoephedrine","Displacement of other urinary stents, subsequent encounter",Publix Super Markets Inc,$97.51 ,7/13/2025
+50,MORPHINE SULFATE,"Nondisp fx of trapezium, left wrist, init for opn fx","Hospira, Inc.",$19.35 ,9/10/2026
+51,"Titanium Dioxide, Zinc Oxide","Nondisp fx of sternal end r clavicle, subs for fx w nonunion",Taylor James LTD,$99.22 ,7/17/2026
+52,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,"Nondisplaced Maisonneuve's fracture of unsp leg, sequela",L'Oreal USA Products Inc,$73.31 ,7/7/2026
+53,phentermine hydrochloride,"Alcohol use, unspecified with alcohol-induced mood disorder","Eon Labs, Inc.",$46.21 ,8/17/2025
+54,"Camphor, Menthol","Disp fx of lateral end of unspecified clavicle, sequela",Motion Medicine Inc.,$84.00 ,1/5/2025
+55,"OCTINOXATE, TITANIUM DIOXIDE",Traumatic amputation of hand at wrist level,Procter & Gamble Manufacturing Company,$72.24 ,8/8/2025
+56,Salicylic Acid,Other gonococcal infections,Neutrogena Corporation,$80.16 ,5/8/2026
+57,Homeopathic Liquid,"Intermittent exophthalmos, right eye",Energetix Corp,$4.86 ,11/23/2024
+58,TRICLOSAN,"Sltr-haris Type I physeal fx unspecified calcaneus, 7thG","Personal Care Products, LLC",$71.32 ,3/19/2026
+59,"calendula officinalis, iris versicolor","Unsp superficial injury of right ring finger, init encntr",Healing Natural Oils LLC,$42.12 ,10/18/2024
+60,fluoride,"Sltr-haris Type I physl fx low end rad, r arm, 7thD","Suheung Capsule Co., Ltd",$53.99 ,2/5/2025
+61,Polymyxin B Sulfate and Trimethoprim Sulfate,"Disp fx of right tibial spine, subs for clos fx w nonunion",Bausch & Lomb Incorporated,$1.36 ,1/6/2025
+62,Anticoagulant Citrate Phosphate Dextrose Adenine,"Unsp nondisp fx of seventh cervcal vertebra, init for opn fx","Fenwal, Inc.",$76.74 ,4/10/2026
+63,TITANIUM DIOXIDE AND ZINC OXIDE,"Disp fx of hook pro of hamate bone, r wrs, 7thK",CALIFORNIA NATUREL,$77.23 ,2/17/2025
+64,"Dextromethorphan Hydrobromide, Doxylamine Succinate","Open bite of abd wall, right low q w/o penet perit cav, init",Meijer Distribution Inc,$91.18 ,3/4/2026
+65,EUCALYPTOL,Corrosion of third degree of buttock,"Western Family Foods, Inc.",$66.11 ,10/19/2025
+66,ETHYL ALCOHOL,Abnormal radiolog finding on antenatal screening of mother,KMART CORPORATION,$59.03 ,1/31/2025
+67,Amlodipine Besylate and Benazepril Hydrochloride,"Osteochondropathy, unspecified, right forearm",Teva Pharmaceuticals USA Inc,$6.55 ,7/23/2024
+68,Acetaminophen and Diphenhydramine Citrate,Recur & perst hematur w diffus endocaplry prolif glomrlneph,Safeway,$49.10 ,4/20/2025
+69,epoprostenol sodium,"Disp fx of lateral condyle of unsp femr, 7thQ","Actelion Pharmaceuticals US, Inc.",$73.46 ,12/27/2025
+70,Benzalkonium Chloride,"Oth traum displ spondylolysis of sixth cervcal vert, 7thD",Terraboost Media LLC,$32.79 ,9/11/2024
+71,Carelessweed,Toxic gastroenteritis and colitis,"Nelco Laboratories, Inc.",$11.91 ,7/24/2025
+72,Bismuth Stibium Wart Relief,Nondisplaced dome fracture of unspecified talus,Uriel Pharmacy Inc.,$31.06 ,4/12/2025
+73,Hyoscyamine Sulfate,"Toxic effect of tetrachloroethylene, undetermined",Virtus Pharmaceuticals,$17.19 ,11/9/2025
+74,Oat Smut,"Displ seg fx shaft of ulna, r arm, 7thF","Nelco Laboratories, Inc.",$82.29 ,4/1/2025
+75,ibuprofen,Oth diabetes mellitus with hypoglycemia without coma,REMEDYREPACK INC.,$28.60 ,5/1/2025
+76,"Octinoxate, Octisalate, Titanium dioxide, and Oxybenzone","Displaced dome fx unsp talus, subs for fx w nonunion","Clientele, Inc.",$44.42 ,8/17/2026
+77,cefditoren pivoxil,Unspecified superficial injury of unspecified finger,Vansen Pharma Inc.,$60.26 ,8/10/2026
+78,ezetimibe and atorvastatin,"Crushing injury of unsp part(s) of r wrist, hand and fingers",Merck Sharp & Dohme Corp.,$31.04 ,9/11/2026
+79,Bacitracin zinc and Polymyxin B sulfate,Osseous and sublux stenosis of intvrt foramina of low extrm,Kaiser Foundations Hospitals,$15.28 ,10/26/2024
+80,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone",Occlusion and stenosis of unsp posterior cerebral artery,"Prime Enterprises, Inc.",$4.38 ,10/14/2025
+81,"Ailanthus Altissima Flowering Twig, Antimony Potassium Tartrate, Arsenic Trioxide, Atropa Belladonna, Camphor (Natural), Chamomile, Copper, Digitalis, Strychnos Ignatii Seed, Canis Lupus Familiaris Milk, Strychnos Nux-Vomica Seed",Complete traumatic amputation at level betw elbow and wrist,"Natural Creations, Inc.",$45.10 ,8/6/2024
+82,bethanechol chloride,"Unstbl burst fx fifth lum vertebra, subs for fx w routn heal","Caraco Pharmaceutical Laboratories, Ltd.",$64.37 ,2/16/2025
+83,TAMSULOSIN HYDROCHLORIDE,Rheumatoid vasculitis with rheumatoid arthritis of unsp hand,STAT RX USA LLC,$25.06 ,10/20/2026
+84,OCTINOXATE and TITANIUM DIOXIDE,Unspecified fracture of lower end of right tibia,ESTEE LAUDER INC,$46.21 ,1/14/2027
+85,metoprolol tartrate,Malignant neoplasm of central portion of left female breast,"PD-Rx Pharmaceuticals, Inc.",$63.39 ,10/28/2025
+86,GLYCERIN,"Exposure to infrared radiation, sequela","AMI Cosmetic Co.,Ltd.",$64.87 ,4/19/2025
+87,clorazepate dipotassium,"Unspecified dislocation of right thumb, subsequent encounter","Physicians Total Care, Inc.",$11.64 ,2/9/2026
+88,Triclosan,Athscl nonbiological bypass graft(s) of the extremities,"SJ Creations, Inc.",$67.89 ,8/3/2024
+89,Silver Maple,"War op involving explosion of sea-based artlry shell, milt","Nelco Laboratories, Inc.",$34.92 ,9/21/2024
+90,Naproxen Sodium,"Fall into well, subsequent encounter",Rite Aid Corporation,$52.90 ,1/10/2026
+91,Acetaminophen,"Unsp physeal fx upper end of humerus, unsp arm, sequela",American Sales Company,$97.97 ,12/2/2026
+92,mucor racemosus,"Laceration of unsp quadriceps musc/fasc/tend, sequela",SANUM-KEHLBECK GMBH & CO KG,$60.91 ,12/11/2026
+93,Ergocalciferol,"Spondylolisthesis, cervical region","SigmaPharm Laboratories, LLC",$24.28 ,6/2/2026
+94,Fluoride,"Displ commnt fx shaft of humer, l arm, 7thP",American Sales,$19.25 ,3/4/2026
+95,Octinoxate and Titanium Dioxide,"Hit by object from burning bldg in uncontrolled fire, subs","Bare Escentuals Beauty, Inc.",$90.53 ,7/3/2026
+96,Enalapril Maleate,"I/I react d/t indwelling ureteral stent, sequela","Taro Pharmaceuticals U.S.A., Inc.",$24.97 ,9/20/2025
+97,Mineral Oil,"Poisoning by oth drugs acting on muscles, self-harm, init","CARDINAL HEALTH, INC.",$64.81 ,5/23/2026
+98,"aluminum hydroxide, magnesium hydroxide, dimethicone","Episodic paroxysmal hemicrania, not intractable",Atlantic Biologicals Corps,$33.43 ,5/29/2026
+99,DILTIAZEM HYDROCHLORIDE,"Burn third deg of unsp site unsp lower limb, ex ank/ft, subs",REMEDYREPACK INC.,$43.10 ,11/6/2026
+100,Diltiazem Hydrochloride Extended-Release Tablets,"Person on outside of military vehicle injured nontraf, init",Oceanside Pharmaceuticals,$41.83 ,1/25/2026
+101,Doxycycline Hyclate,"Osteonecrosis due to previous trauma, hand and fingers",Major Pharmaceuticals,$58.42 ,5/6/2026
+102,erlotinib hydrochloride,Congenital dyserythropoietic anemia,"Physicians Total Care, Inc.",$92.25 ,5/7/2025
+103,"Avobenzone, Octisalate, and Octocrylene","Oth fracture of left acetabulum, init for clos fx",Procter & Gamble Manufacturing Company,$10.18 ,9/16/2024
+104,Clomipramine Hydrochloride,"Civilian arcrft in air trnsp acc w military arcrft, sequela",American Health Packaging,$48.53 ,7/6/2025
+105,SALICYLIC ACID,Exposure to radioactive isotopes,"Halogent, LLC (DBA Exposed Skin Care)",$80.55 ,8/12/2026
+106,"Piperonyl butoxide, Pyrethrum extract",Ped on rolr-skt injured in collision w rail trn/veh nontraf,HyVee Inc,$85.79 ,2/21/2026
+107,Tramadol Hydrochloride,"Complete traumatic amp at knee level, unsp low leg, sequela",REMEDYREPACK INC.,$91.94 ,8/15/2025
+108,"Dextromethorphan HBr, Guaifenesin","Toxic effect of nitrogen oxides, assault, subs encntr",Meijer Distribution Inc,$78.85 ,5/22/2025
+109,Miconazole nitrate,"Pnctr w fb of r frnt wl of thorax w/o penet thor cav, subs",Walgreen Company,$97.25 ,6/27/2025
+110,Camphor (Synthetic) and Menthol,"Antepartum hemorrhage with afibrinogenemia, second trimester","Prince of Peace Enterprises, Inc.",$95.67 ,1/25/2026
+111,zoledronic acid,"Unspecified injury of right Achilles tendon, sequela",Sun Pharma Global FZE,$78.27 ,3/25/2025
+112,Sodium monofluorophosphate,"Enteropathic arthropathies, multiple sites",Shield Line LLC,$74.52 ,11/11/2025
+113,SALICYLIC ACID,"Oth intartic fx low end l rad, 7thF",WALGREEN COMPANY,$8.69 ,7/11/2026
+114,EQUISETUM ARVENSE TOP WHITE OAK BARK MAMMAL LIVER,Maternal care for compound presentation,Uriel Pharmacy Inc,$70.35 ,11/14/2024
+115,"OCTINOXATE, OCTISALATE, OXYBENZONE, OCTOCRYLENE, and AVOBENZONE","Pingueculitis, bilateral","Elizabeth Arden, Inc",$84.80 ,8/20/2026
+116,Galantamine,"Lac w/o fb of abd wall, r upper q w/o penet perit cav, subs","NCS HealthCare of KY, Inc dba Vangard Labs",$79.26 ,7/18/2024
+117,ceftriaxone,"Disp fx of lesser tuberosity of l humerus, init for opn fx",Sagent Pharmaceuticals,$5.79 ,5/16/2025
+118,GUAIFENESIN,Contusion of left shoulder,"Dispensing Solutions, Inc.",$39.28 ,3/29/2026
+119,Hydrocortisone,"Myositis ossificans traumatica, unspecified upper arm",Topco Associates LLC,$53.68 ,11/10/2024
+120,Sodium fluoride,"Toxic effect of contact with stingray, undetermined","Chattem, Inc.",$81.29 ,9/22/2025

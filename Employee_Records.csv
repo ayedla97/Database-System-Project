@@ -1,0 +1,121 @@
+employee_id,employee_name,contact_details,role,work_schedule,performance_evaluation,training_records
+1,Izaak Ingarfield,321-138-9230,Storekeeper,Morning,Bad,Good
+2,Fara Callway,727-788-1776,Storekeeper,Morning,Good,Good
+3,Lemuel Dorracott,597-167-9294,Pharmacist,Night,Not Bad,Good
+4,Zebulen Riby,921-271-7632,Salesman,Evening,Very Bad,Very Good
+5,Blayne Hardison,145-790-4933,Physician,Night,Excellent,Good
+6,Callida Bramer,823-304-8190,Cashier,Evening,Not Bad,Good
+7,Nata Woollin,337-864-2570,Salesman,Night,Not Bad,Outstanding
+8,Portie Paszek,834-626-2014,Cashier,Night,Excellent,Below Average
+9,Immanuel Balding,497-681-9045,Cashier,Night,Very Bad,Good
+10,Felix Haddow,330-289-0936,Cashier,Morning,Very Bad,Very Good
+11,Pepi Salmen,428-169-0584,Cashier,Night,Not Bad,Poor
+12,Keefer Dreher,177-973-8531,Storekeeper,Evening,Not Bad,Good
+13,Auberta McGrotty,729-665-9269,Physician,Morning,Good,Very Good
+14,Alvera Dominguez,929-300-2829,Salesman,Night,Not Bad,Good
+15,Claudell Pafford,148-595-8780,Storekeeper,Night,Very Bad,Good
+16,Lowe Valsler,459-804-8370,Salesman,Night,Good,Outstanding
+17,Aviva Ratazzi,340-867-3476,Salesman,Night,Bad,Good
+18,Niven Pittson,391-263-6147,Salesman,Evening,Very Bad,Outstanding
+19,Gregor Darragon,996-860-0865,Salesman,Night,Bad,Outstanding
+20,Agathe Skechley,199-908-4028,Cashier,Morning,Bad,Poor
+21,Leonard Askam,939-302-0522,Cashier,Morning,Not Bad,Very Good
+22,Shel Badham,105-722-2455,Cashier,Night,Good,Outstanding
+23,Harwilll Kynder,513-718-9460,Cashier,Morning,Bad,Outstanding
+24,Lina Michin,134-734-2396,Cashier,Night,Good,Very Good
+25,Milicent Norman,969-602-2110,Cashier,Night,Excellent,Outstanding
+26,Albrecht Symcox,343-822-5971,Salesman,Night,Bad,Below Average
+27,Gun Missen,570-997-1348,Pharmacist,Evening,Very Bad,Good
+28,Ross Derdes,309-585-9472,Physician,Night,Good,Poor
+29,Sandy Davydzenko,934-761-0209,Cashier,Evening,Very Bad,Very Good
+30,Milka Dunlop,606-356-9466,Physician,Night,Not Bad,Good
+31,Mead Blockwell,907-954-2761,Pharmacist,Night,Bad,Poor
+32,Walliw Lindley,824-289-0753,Cashier,Morning,Not Bad,Poor
+33,Pavla Keats,848-844-9834,Storekeeper,Night,Excellent,Outstanding
+34,Elwyn Bellefant,643-298-5133,Cashier,Night,Bad,Poor
+35,Freeman Hebditch,602-479-8010,Physician,Morning,Bad,Good
+36,Brigida McElrea,215-600-8751,Cashier,Morning,Bad,Outstanding
+37,Boycie Witcombe,632-105-2022,Cashier,Night,Excellent,Outstanding
+38,Spenser Bilsford,637-259-1271,Storekeeper,Night,Not Bad,Below Average
+39,Dot Blissitt,244-855-7157,Salesman,Morning,Not Bad,Outstanding
+40,Kat Mumbey,714-459-4925,Pharmacist,Evening,Bad,Poor
+41,Janetta Horsley,407-291-2579,Cashier,Evening,Very Bad,Very Good
+42,Ninnette Skotcher,911-844-5446,Pharmacist,Night,Good,Below Average
+43,Leslie Watson,709-535-5581,Physician,Evening,Excellent,Good
+44,Simone Ledrane,814-727-3921,Cashier,Evening,Not Bad,Good
+45,Linnea Serrurier,213-559-0560,Pharmacist,Evening,Excellent,Below Average
+46,Giacopo Clapston,553-532-3367,Cashier,Evening,Good,Good
+47,Lenard Geaves,408-220-5689,Pharmacist,Evening,Bad,Outstanding
+48,Leila Jansey,825-446-8874,Cashier,Morning,Very Bad,Very Good
+49,Ron Sayton,440-281-5133,Salesman,Night,Excellent,Good
+50,Ericha Pyett,630-260-0228,Cashier,Night,Very Bad,Below Average
+51,Christoffer Testin,486-622-2078,Storekeeper,Night,Good,Very Good
+52,Iona Norcock,598-171-6775,Storekeeper,Morning,Not Bad,Poor
+53,Lauritz Daveren,263-202-9673,Cashier,Morning,Very Bad,Good
+54,Kristyn Briamo,253-408-8496,Storekeeper,Evening,Not Bad,Below Average
+55,Ewan Flint,415-613-6194,Physician,Evening,Bad,Below Average
+56,Gale Strevens,546-724-9861,Physician,Night,Bad,Below Average
+57,Larry Sunderland,919-557-5019,Salesman,Evening,Very Bad,Very Good
+58,Kimberlee Goodlip,120-849-8798,Storekeeper,Evening,Excellent,Good
+59,Ignatius Ratazzi,934-290-8623,Physician,Night,Bad,Good
+60,Whit MacDonough,116-647-4189,Pharmacist,Night,Not Bad,Very Good
+61,Mira Kiff,670-622-7023,Cashier,Evening,Bad,Good
+62,Timmie Squire,717-456-6444,Cashier,Morning,Good,Outstanding
+63,Benetta Cranshaw,485-863-9292,Cashier,Night,Very Bad,Outstanding
+64,Craggy Haselgrove,397-661-4643,Physician,Night,Not Bad,Very Good
+65,Ralf Ruddom,115-291-1183,Salesman,Night,Excellent,Very Good
+66,Jasun Mowles,740-571-0125,Salesman,Evening,Excellent,Very Good
+67,Janey Lowdyane,672-467-7958,Pharmacist,Night,Very Bad,Poor
+68,Thedric Mattin,725-280-7748,Pharmacist,Morning,Good,Below Average
+69,Kane Chill,222-874-1372,Cashier,Morning,Excellent,Very Good
+70,Lon Whannel,885-583-4912,Cashier,Evening,Not Bad,Outstanding
+71,Dot Kimberley,557-656-8730,Cashier,Morning,Bad,Very Good
+72,Courtnay MacIlhargy,339-654-9859,Salesman,Morning,Not Bad,Very Good
+73,Doroteya Edkins,454-375-1354,Cashier,Evening,Not Bad,Below Average
+74,Stacey Cockaday,652-803-3924,Physician,Morning,Bad,Good
+75,Shayla McCrackem,752-934-6549,Salesman,Morning,Good,Very Good
+76,Mayne Maughan,686-728-9946,Storekeeper,Night,Excellent,Below Average
+77,Clementius Juste,436-388-3566,Cashier,Night,Good,Poor
+78,Patrizio Morriss,978-245-0237,Salesman,Morning,Excellent,Good
+79,Shaina Oldis,254-333-0618,Physician,Morning,Not Bad,Very Good
+80,Terry Shadbolt,946-750-9524,Salesman,Morning,Bad,Good
+81,Alexei Keneford,761-399-0318,Salesman,Morning,Not Bad,Very Good
+82,Suzie Brecken,239-535-1204,Salesman,Evening,Excellent,Very Good
+83,Marianne Colles,617-119-6161,Pharmacist,Night,Bad,Good
+84,Clem Bisatt,556-303-9268,Pharmacist,Evening,Not Bad,Good
+85,Camellia Woakes,625-551-1974,Salesman,Evening,Not Bad,Below Average
+86,Lindi Robertsson,298-218-7640,Storekeeper,Morning,Not Bad,Good
+87,Daloris Stone,968-803-0081,Cashier,Night,Bad,Very Good
+88,Alexis Brewitt,899-286-6554,Cashier,Morning,Good,Below Average
+89,Merle Skingle,924-388-1447,Pharmacist,Night,Good,Good
+90,Rex Ardy,368-964-7680,Cashier,Night,Not Bad,Very Good
+91,Alfy Marskell,881-194-7018,Storekeeper,Morning,Very Bad,Poor
+92,Norah O'Lennachain,216-198-4997,Storekeeper,Morning,Bad,Good
+93,Rochette Garwell,373-872-7329,Pharmacist,Night,Bad,Very Good
+94,Ranice Cocks,270-996-7760,Salesman,Evening,Bad,Below Average
+95,Witty Plues,786-971-3798,Cashier,Evening,Excellent,Outstanding
+96,Elianore Trengrove,786-769-1010,Physician,Morning,Very Bad,Poor
+97,Dayle Bubb,225-468-7688,Cashier,Evening,Not Bad,Outstanding
+98,Waylon Apfelmann,274-630-4727,Salesman,Night,Good,Poor
+99,Calypso Agostini,702-594-8151,Salesman,Night,Excellent,Very Good
+100,Shirlene Duffer,562-784-9652,Physician,Evening,Not Bad,Very Good
+101,Earle Franks,604-921-3937,Cashier,Evening,Very Bad,Outstanding
+102,Star Dailey,224-827-7502,Physician,Evening,Excellent,Good
+103,Godiva Woodruff,933-428-0745,Pharmacist,Morning,Bad,Below Average
+104,Blake Banbury,223-402-5298,Pharmacist,Night,Very Bad,Poor
+105,Murielle Worsnup,989-546-3072,Physician,Night,Excellent,Very Good
+106,Gwendolen Aulsford,168-912-4091,Cashier,Evening,Not Bad,Poor
+107,Fayth Godbehere,831-906-0494,Cashier,Evening,Excellent,Outstanding
+108,Derril Goscomb,107-310-5185,Storekeeper,Evening,Good,Below Average
+109,Kimmy Rattrie,853-247-2763,Physician,Morning,Excellent,Below Average
+110,Jeffie Wishkar,563-675-0088,Cashier,Night,Bad,Good
+111,Wadsworth Sizey,834-744-2949,Cashier,Night,Excellent,Outstanding
+112,Iago Swaisland,422-662-5168,Salesman,Evening,Excellent,Very Good
+113,Parry Guerry,686-640-4997,Pharmacist,Evening,Bad,Below Average
+114,Johnnie Silbert,448-127-5945,Salesman,Evening,Bad,Good
+115,Jaquelin Seabrooke,922-268-3538,Salesman,Morning,Bad,Outstanding
+116,Nata Trodd,210-543-5075,Cashier,Evening,Excellent,Good
+117,Eduardo McGaughey,756-137-8293,Storekeeper,Evening,Very Bad,Poor
+118,Berti Seacombe,622-765-4348,Salesman,Night,Not Bad,Good
+119,Marylynne Dionsetto,790-101-6994,Storekeeper,Morning,Very Bad,Outstanding
+120,Raffarty Scading,691-918-3306,Cashier,Morning,Very Bad,Outstanding

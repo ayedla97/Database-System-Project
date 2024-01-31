@@ -1,0 +1,121 @@
+transaction_id,transaction_date,transaction_Type,Amount,payroll,budget_allocation
+1,3/8/2024,Bank Transfer,$103.94 ,Paid,not allocated
+2,1/1/2024,Bank Transfer,$220.96 ,Paid,not allocated
+3,2/17/2024,Card,$583.58 ,Paid,allocated
+4,2/22/2024,Paypal,$461.34 ,Paid,allocated
+5,1/25/2024,Others,$355.29 ,Pending,not allocated
+6,1/26/2024,Paypal,$262.36 ,Pending,allocated
+7,3/6/2024,Cash,$802.63 ,Pending,allocated
+8,2/26/2024,Cash,$537.18 ,Pending,allocated
+9,1/5/2024,Card,$970.73 ,Pending,not allocated
+10,1/30/2024,Paypal,$281.32 ,Paid,not allocated
+11,3/8/2024,Paypal,$410.07 ,Paid,not allocated
+12,1/19/2024,Card,$726.24 ,Paid,not allocated
+13,1/17/2024,Cash,$787.30 ,Pending,not allocated
+14,1/24/2024,Card,$372.59 ,Paid,not allocated
+15,2/1/2024,Cash,$275.88 ,Pending,not allocated
+16,1/29/2024,Cash,$864.33 ,Pending,not allocated
+17,1/2/2024,Paypal,$417.07 ,Pending,not allocated
+18,3/2/2024,Card,$343.16 ,Paid,not allocated
+19,3/1/2024,Bank Transfer,$425.91 ,Pending,not allocated
+20,2/14/2024,Others,$488.03 ,Paid,not allocated
+21,1/27/2024,Paypal,$969.19 ,Paid,not allocated
+22,1/24/2024,Card,$942.24 ,Pending,not allocated
+23,2/3/2024,Bank Transfer,$341.12 ,Pending,allocated
+24,2/22/2024,Bank Transfer,$298.14 ,Pending,not allocated
+25,2/24/2024,Paypal,$658.79 ,Pending,allocated
+26,1/1/2024,Cash,$626.89 ,Paid,not allocated
+27,1/17/2024,Bank Transfer,$152.10 ,Paid,allocated
+28,2/13/2024,Card,$512.60 ,Paid,allocated
+29,1/11/2024,Others,$431.97 ,Pending,allocated
+30,3/2/2024,Cash,$576.60 ,Paid,not allocated
+31,1/27/2024,Paypal,$116.24 ,Pending,not allocated
+32,2/29/2024,Bank Transfer,$300.73 ,Pending,allocated
+33,1/9/2024,Paypal,$313.52 ,Paid,not allocated
+34,1/14/2024,Card,$963.67 ,Paid,not allocated
+35,1/4/2024,Cash,$156.96 ,Pending,allocated
+36,1/30/2024,Cash,$455.27 ,Pending,not allocated
+37,2/1/2024,Paypal,$461.81 ,Paid,allocated
+38,1/1/2024,Paypal,$782.01 ,Paid,allocated
+39,1/7/2024,Paypal,$533.65 ,Paid,not allocated
+40,2/6/2024,Cash,$883.62 ,Pending,not allocated
+41,1/28/2024,Bank Transfer,$150.92 ,Pending,allocated
+42,1/28/2024,Cash,$463.12 ,Pending,allocated
+43,2/8/2024,Cash,$951.48 ,Paid,allocated
+44,1/22/2024,Cash,$699.31 ,Pending,allocated
+45,3/3/2024,Bank Transfer,$734.46 ,Pending,allocated
+46,2/12/2024,Paypal,$318.35 ,Pending,not allocated
+47,2/1/2024,Card,$774.46 ,Pending,not allocated
+48,1/30/2024,Others,$784.76 ,Pending,allocated
+49,2/3/2024,Card,$263.33 ,Paid,not allocated
+50,1/13/2024,Bank Transfer,$132.29 ,Paid,allocated
+51,2/29/2024,Paypal,$625.33 ,Paid,not allocated
+52,3/8/2024,Cash,$329.68 ,Pending,allocated
+53,2/4/2024,Card,$545.85 ,Paid,allocated
+54,3/4/2024,Cash,$708.19 ,Paid,not allocated
+55,2/21/2024,Card,$907.96 ,Paid,allocated
+56,2/3/2024,Card,$518.38 ,Pending,allocated
+57,1/27/2024,Card,$259.08 ,Pending,allocated
+58,1/5/2024,Bank Transfer,$773.30 ,Paid,not allocated
+59,1/3/2024,Bank Transfer,$601.07 ,Pending,allocated
+60,2/5/2024,Others,$156.39 ,Pending,not allocated
+61,1/15/2024,Bank Transfer,$936.02 ,Paid,not allocated
+62,1/20/2024,Bank Transfer,$716.66 ,Paid,not allocated
+63,1/17/2024,Cash,$447.31 ,Pending,not allocated
+64,2/6/2024,Cash,$380.13 ,Paid,not allocated
+65,1/16/2024,Others,$556.74 ,Pending,not allocated
+66,2/17/2024,Card,$660.55 ,Paid,allocated
+67,1/13/2024,Card,$545.55 ,Paid,allocated
+68,2/13/2024,Others,$401.32 ,Pending,not allocated
+69,1/16/2024,Others,$191.26 ,Pending,not allocated
+70,1/10/2024,Paypal,$577.69 ,Pending,not allocated
+71,1/12/2024,Paypal,$884.99 ,Pending,not allocated
+72,2/6/2024,Paypal,$348.44 ,Paid,allocated
+73,1/10/2024,Cash,$693.05 ,Paid,allocated
+74,1/6/2024,Others,$775.15 ,Pending,allocated
+75,1/25/2024,Card,$505.11 ,Pending,not allocated
+76,1/16/2024,Cash,$843.44 ,Paid,allocated
+77,1/5/2024,Paypal,$606.13 ,Paid,allocated
+78,1/13/2024,Bank Transfer,$732.71 ,Paid,allocated
+79,1/29/2024,Bank Transfer,$183.05 ,Pending,allocated
+80,1/4/2024,Card,$731.49 ,Pending,allocated
+81,1/14/2024,Others,$441.28 ,Paid,not allocated
+82,1/22/2024,Cash,$859.50 ,Paid,allocated
+83,1/5/2024,Paypal,$870.16 ,Paid,allocated
+84,1/7/2024,Others,$998.35 ,Paid,not allocated
+85,2/11/2024,Bank Transfer,$632.39 ,Paid,allocated
+86,2/16/2024,Bank Transfer,$251.69 ,Paid,not allocated
+87,2/28/2024,Others,$505.43 ,Pending,not allocated
+88,1/7/2024,Paypal,$942.08 ,Paid,allocated
+89,2/16/2024,Cash,$343.50 ,Paid,not allocated
+90,3/3/2024,Others,$532.42 ,Pending,allocated
+91,1/18/2024,Others,$466.41 ,Pending,not allocated
+92,1/25/2024,Paypal,$191.20 ,Paid,allocated
+93,3/9/2024,Card,$596.83 ,Paid,not allocated
+94,2/24/2024,Cash,$703.95 ,Paid,not allocated
+95,1/21/2024,Paypal,$981.58 ,Pending,not allocated
+96,1/25/2024,Others,$989.98 ,Paid,allocated
+97,1/20/2024,Bank Transfer,$138.63 ,Pending,allocated
+98,1/9/2024,Bank Transfer,$909.23 ,Paid,not allocated
+99,1/29/2024,Paypal,$702.33 ,Paid,allocated
+100,3/8/2024,Paypal,$502.24 ,Pending,allocated
+101,1/29/2024,Others,$480.92 ,Pending,allocated
+102,1/18/2024,Paypal,$754.21 ,Pending,allocated
+103,2/14/2024,Others,$250.00 ,Paid,not allocated
+104,1/14/2024,Bank Transfer,$176.39 ,Paid,not allocated
+105,2/27/2024,Cash,$562.14 ,Paid,allocated
+106,1/5/2024,Bank Transfer,$535.52 ,Paid,not allocated
+107,2/3/2024,Bank Transfer,$558.60 ,Paid,not allocated
+108,2/8/2024,Others,$142.54 ,Paid,not allocated
+109,2/29/2024,Paypal,$492.90 ,Paid,allocated
+110,3/1/2024,Card,$414.30 ,Paid,allocated
+111,1/29/2024,Paypal,$676.23 ,Pending,allocated
+112,1/24/2024,Others,$138.22 ,Paid,allocated
+113,2/23/2024,Paypal,$733.94 ,Paid,not allocated
+114,1/3/2024,Paypal,$105.09 ,Paid,not allocated
+115,2/3/2024,Card,$909.39 ,Pending,not allocated
+116,3/1/2024,Cash,$649.38 ,Pending,not allocated
+117,1/13/2024,Card,$233.46 ,Paid,not allocated
+118,1/28/2024,Cash,$168.27 ,Pending,not allocated
+119,1/14/2024,Bank Transfer,$923.22 ,Pending,allocated
+120,2/21/2024,Paypal,$865.19 ,Pending,not allocated

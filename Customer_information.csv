@@ -1,0 +1,121 @@
+customer_id,customer_name,contact_details,feedback
+1,Stevena Conroy,170-423-2361,Satisfied
+2,Grantley Annable,941-680-6443,Satisfied
+3,Tymothy Ollis,810-960-4805,Satisfied
+4,Alphonso Grist,473-329-1765,Not Satisfied
+5,Murvyn Whiscard,344-383-9043,Satisfied
+6,Harmony Bartalot,263-957-6278,Satisfied
+7,Marty Blankett,890-567-2950,Satisfied
+8,Marlyn Ciotto,528-963-9685,Satisfied
+9,Meir Antoshin,748-589-0998,Not Satisfied
+10,Eamon Kennington,848-446-2756,Not Satisfied
+11,Lela Twigg,789-362-0591,Not Satisfied
+12,Nero Bimson,252-228-1034,Satisfied
+13,Harwell Faccini,235-207-4446,Not Satisfied
+14,Rachel Wilkison,464-766-6316,Satisfied
+15,Merrel Skegg,498-640-4519,Not Satisfied
+16,Pascale Keston,225-621-4455,Satisfied
+17,Corby Everit,706-420-9326,Satisfied
+18,Nelia Zeale,919-394-6580,Satisfied
+19,Markos Hantusch,442-894-1516,Satisfied
+20,Redford Bestwerthick,177-322-5713,Not Satisfied
+21,Poul Pietrowicz,751-970-6006,Not Satisfied
+22,Janela Huonic,611-895-0791,Not Satisfied
+23,Aimee Adshad,446-623-2631,Satisfied
+24,Hillier Gonoude,751-277-1789,Satisfied
+25,Sammy Kolodziej,811-275-4623,Satisfied
+26,Vivie Findlow,696-562-6143,Satisfied
+27,Corinna Drakes,754-865-1625,Not Satisfied
+28,Pedro Lannin,663-128-2264,Not Satisfied
+29,Regina Lembke,346-317-8794,Not Satisfied
+30,Herb Nutton,139-628-9951,Not Satisfied
+31,Kip Claydon,343-565-1418,Not Satisfied
+32,Issie Rawls,221-771-5731,Satisfied
+33,Debra Kopta,776-423-6526,Satisfied
+34,Trueman Liversage,685-946-4329,Not Satisfied
+35,Fey Wille,817-108-0967,Not Satisfied
+36,Nariko Faers,388-607-3338,Satisfied
+37,Cristabel Libbis,231-689-7871,Satisfied
+38,Lynea Jumont,694-735-9051,Satisfied
+39,Mellicent Baudain,757-147-8274,Not Satisfied
+40,Ebba McWilliams,810-620-1308,Not Satisfied
+41,Christy Cumpton,494-665-0190,Not Satisfied
+42,Timothy Carvil,197-789-1289,Satisfied
+43,Candy Clamp,560-425-2752,Satisfied
+44,Consuela Sturdy,562-602-6698,Not Satisfied
+45,Rooney Cattini,497-331-0791,Not Satisfied
+46,Sandra Runnicles,329-714-8173,Satisfied
+47,Vaughn Gresly,599-169-7570,Not Satisfied
+48,Reamonn Ciobutaro,467-786-4540,Satisfied
+49,Mareah Cardinale,190-682-6651,Not Satisfied
+50,Warde McKendo,861-217-4368,Satisfied
+51,Ofilia Mardling,624-496-0835,Satisfied
+52,Ewell Bramhall,940-134-2365,Satisfied
+53,Guillema Mion,614-579-2084,Not Satisfied
+54,Britt Pitkins,516-757-5792,Satisfied
+55,Chance Robinson,731-219-8006,Not Satisfied
+56,Leigha Wycherley,701-635-4727,Not Satisfied
+57,Lanni Impey,407-945-9250,Not Satisfied
+58,Lew Huller,158-628-1373,Satisfied
+59,Peirce Clemot,330-263-7468,Not Satisfied
+60,Baxy Schooley,577-703-9290,Not Satisfied
+61,Vachel Chesswas,822-993-5865,Not Satisfied
+62,Gard Simmance,603-531-8313,Satisfied
+63,Karlie Fisby,691-800-4252,Satisfied
+64,Robbie Kiellor,432-368-6104,Not Satisfied
+65,Rosamund Bru,352-536-8108,Satisfied
+66,Deane Hauck,162-799-5652,Satisfied
+67,Maison Stainbridge,866-953-3718,Satisfied
+68,Marshall Stapley,285-861-0437,Not Satisfied
+69,Seka Trevino,139-851-9068,Satisfied
+70,Dionysus Fyers,766-766-1716,Satisfied
+71,Borden Cumberland,501-188-3094,Not Satisfied
+72,Sutton Mostin,859-492-7775,Not Satisfied
+73,Audre Furlonge,497-210-1341,Satisfied
+74,Ewan Foottit,929-176-6379,Not Satisfied
+75,Constance Stolze,875-210-1178,Not Satisfied
+76,Stafford MacPike,148-321-8041,Satisfied
+77,Cherlyn Rayer,132-127-0141,Satisfied
+78,Caro Boken,828-648-3056,Satisfied
+79,Moria Hastwell,786-311-4082,Not Satisfied
+80,Jelene Coots,520-801-6841,Satisfied
+81,Ade Nickels,161-713-0273,Satisfied
+82,Mercy Barbisch,699-664-2875,Satisfied
+83,Leshia Kuschel,673-239-1458,Not Satisfied
+84,Giffard Thulborn,751-738-5420,Satisfied
+85,Lucina Dran,350-212-4941,Not Satisfied
+86,Gilles Felmingham,301-801-2952,Not Satisfied
+87,Hallsy Staley,162-569-9587,Satisfied
+88,Konrad Meadowcroft,912-280-6149,Not Satisfied
+89,Kennedy Lawther,217-319-3261,Not Satisfied
+90,Stacee Donegan,377-681-1268,Not Satisfied
+91,Frederique McGirl,984-458-5352,Satisfied
+92,Dion Ducker,116-126-3092,Not Satisfied
+93,Izaak Skym,791-208-6154,Satisfied
+94,Rene Tapson,208-353-6964,Not Satisfied
+95,Odell Fitchen,676-563-4975,Satisfied
+96,Udale Lukasik,141-189-4933,Satisfied
+97,Ruggiero Lamy,499-736-8828,Satisfied
+98,Tonya Gossop,701-913-3633,Not Satisfied
+99,Claudine Shewen,439-938-1335,Satisfied
+100,Kevina O' Clovan,197-561-2774,Not Satisfied
+101,Dannye Andrzejewski,565-999-0494,Satisfied
+102,Sibeal O'Howbane,722-707-6136,Not Satisfied
+103,Alva Viste,597-446-1917,Satisfied
+104,Bondy Goodoune,352-609-4824,Not Satisfied
+105,Murielle Pippard,425-687-5012,Not Satisfied
+106,Latia Feldmesser,889-514-7423,Satisfied
+107,Zora Auty,386-351-7419,Not Satisfied
+108,Zora Liddall,539-702-6579,Not Satisfied
+109,Ewan Draco,969-746-2203,Not Satisfied
+110,Cynthia Spykins,674-597-1241,Not Satisfied
+111,Cristine Jamary,480-423-6802,Satisfied
+112,Conni Wartnaby,592-140-8221,Not Satisfied
+113,Krystle Lamps,176-446-6304,Satisfied
+114,Edi Dunklee,465-944-3489,Satisfied
+115,Nita Winckworth,533-304-7550,Not Satisfied
+116,Lenora MacMenamin,180-605-4639,Satisfied
+117,Sisely Tomeo,943-491-1381,Not Satisfied
+118,Daveta Lassell,297-381-9798,Satisfied
+119,Lilian Dowman,551-284-6272,Not Satisfied
+120,Packston Charrington,492-490-6387,Satisfied
